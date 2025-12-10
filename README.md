@@ -1,4 +1,4 @@
-# 🚀 Data Engineering Project – Databricks (Bronze → Silver → Gold Pipeline)
+# 🚀 FMCG Data Engineering Project – Databricks (Bronze → Silver → Gold Pipeline)
 
 This project showcases an end-to-end **data engineering pipeline** built on **Databricks**, using **AWS S3**, **Unity Catalog**, **Delta Lake**, and **Lakeflow Jobs**.  
 It demonstrates how a **Child Company** processes data and shares curated **Gold** datasets with a **Parent Company** for enterprise-level analytics.
